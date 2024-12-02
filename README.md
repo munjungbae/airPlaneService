@@ -15,7 +15,7 @@
 >         + __Eclipse IDE__
 >- __데이터베이스__
 >     - __Oracle__ 21c Express Edition
->     - __SQL Developer__ 24.3.0
+>         + __SQL Developer__ 24.3.0
 >- 
 
 ### 🧰핵심 기능
